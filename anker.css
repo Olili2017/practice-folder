@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #222;
+    text-align: center;
+    border-radius: 5px;
+}
+h1{
+    font-size: 350px;
+    text-transform: uppercase;
+    background:#111;
+    line-height: 700px;
+    margin: 20px 10px;
+    border-radius: 7px;
+}
